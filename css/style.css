@@ -1,0 +1,21 @@
+ * {
+  box-sizing: border-box;
+  font-family: serif;
+}
+
+.section-gap {
+  padding: 40px 0px 0px;
+}
+
+.gallery p {
+  font-size: 14px;
+}
+
+.page-item.active .page-link {
+  background-color: var(--dark);
+  color: white;
+}
+
+.footer img {
+  width: 100px;
+}
